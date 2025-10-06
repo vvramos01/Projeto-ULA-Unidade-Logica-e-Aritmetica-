@@ -1,2 +1,2 @@
-# Projeto-ULA-Unidade-L-gica-e-Aritm-tica-
+# Projeto-ULA-Unidade-Logica-e-Aritmetica-
 Atividade Avaliativa
